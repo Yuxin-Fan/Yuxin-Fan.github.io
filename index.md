@@ -8,7 +8,7 @@ layout: page
 　　Yuxin Fan, born on Sept.8th, 1996, a master student studying population, resources and environmental economics at [Peking University (PKU, China)]. Great interest in ‘development economics’, ‘aging’ and ‘heath economics’. Having received strict and normative training of data analysis and academic writing. Would like to apply for Ph.D. of Economics in 2~3 years. A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
 
 ## Education Background
-* M.A. in Economics - [Institute of Population Studies, Peking University] (2017-2020)
+* M.A. in Economics - Institute of Population Studies, Peking University (2017-2020)
 * B.A. in Korean Language - [School of Foreign Languages, Peking University] (2013-2017)     
 * B.A. in Economics - [National School of Development, Peking University] (2015-2017)      
 * Exchange student - [Seoul National University, South Korea] (2016)     
