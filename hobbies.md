@@ -10,8 +10,8 @@ title: Hobbies
 　　I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Receiving too many great comments from my friends. 
 
 ### Travelling
-　　 I am always preparing to travel rount the world. 
- <img src="/images/footprint.png" width="70%" height="70%" alt="The cities I have visited in China, updated Jan 2021" align=center title"The cities I have visited in China, updated Jan 2021" >
+　　 I am always preparing to travel rount the world. The image below shows the cities I have visited in China up to Jan 2021
+ <img src="/images/footprint.png" width="70%" height="70%" alt="The cities I have visited in China, updated Jan 2021" align="center" >
 
 ### Enjoying the symphony
 
