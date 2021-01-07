@@ -10,7 +10,7 @@ title: Hobbies
 　　I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Receiving too many great comments from my friends. 
 
 ### Travelling
-    The Cities I have visited till Jan 2021 are marked on the map. Only including cities in China.
+   The Cities I have visited till Jan 2021 are marked on the map. Only including cities in China.
 
  <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/blob/master/images/footprint.png" width="70%" height="70%" />
 
