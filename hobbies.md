@@ -7,15 +7,12 @@ title: Hobbies
 ## Hobbies
 
 ### Cooking
-　　I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Recieving too many great comments from my friends. 
+　　I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Receiving too many great comments from my friends. 
 
 ### Travelling
-
-##### 　Till Jan, 2021 in China
+    Cities I have visited till Jan, 2021 are marked on the map. Only including cities in China.
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/footprint.png" width="70%" height="70%" />
   
-##### 　Till June, 2016 in South Korea
-<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zujikr.jpg" width="70%" height="70%" />
 
 ### Enjoying the symphony
 
@@ -34,8 +31,6 @@ title: Hobbies
 
 　　Netease Music ID: Yuxin96    
   
-<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg" width="25%" height="25%" />
-     
 ### Reading & Films    
 　　Douban ID: 93191891
 
