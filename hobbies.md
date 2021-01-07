@@ -11,8 +11,7 @@ title: Hobbies
 
 ### Travelling
 　　 I am always preparing to travel rount the world. 
- <img src="/images/footprint.png" width="70%" height="70%" alt="The cities I have visited in China, updated Jan 2021" align=center >
- <h1>The cities I have visited in China, updated Jan 2021</h1>
+ <img src="/images/footprint.png" width="70%" height="70%" alt="The cities I have visited in China, updated Jan 2021" align=center title"The cities I have visited in China, updated Jan 2021" >
 
 ### Enjoying the symphony
 
