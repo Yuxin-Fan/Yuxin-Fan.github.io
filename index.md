@@ -5,7 +5,7 @@ layout: page
 ## About Me
 
 <img src="/images/fyxhg.png" class="floatpic" width="200" height="150">
-　　Yuxin Fan, born on Sept.8th, 1996, working for [China Construction Bank(CCB)]. Great interest in economics, inclusive finance and population studies. Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
+　　Yuxin Fan, born on Sept.8th, 1996, working for [China Construction Bank (CCB)]. Great interest in economics, inclusive finance and population studies. Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
 
 ## Education Background
 * M.A. in Economics - [Peking University, China] (2017-2020)
@@ -17,16 +17,16 @@ layout: page
 
 * Peking University Award for Scientific Research
 * Peking University [Founder] Scholarship
-* Peking University Award for Excellent Academy(2017-18)
+* Peking University Award for Excellent Academy (2017-18)
 * Novo Nordisk International Talent Program Scholarship
 * IARU-Santander Scholarship
 * Second Prize of the 11st Graduate Forum on Population and Development
 * Peking University First-class Academic Scholarship
 * Peking University [Hana Financial Group] Scholarship
-* Peking University Award for Excellent Academy(2015-2016)
+* Peking University Award for Excellent Academy (2015-2016)
 * First Prize of the 24th Session [Peking University "Challenge Cup"] Academic Competition
 * Peking University [Wooli Bank] Scholarship 
-* Peking University Award for Excellent Academy(2014-2015)
+* Peking University Award for Excellent Academy (2014-2015)
 * Excellent Investigator of [Institute of Social Science Survey, Peking University]
   
 
@@ -44,5 +44,5 @@ layout: page
 [Peking University "Challenge Cup"]:http://www.tiaozhanbei.net/d1711/
 [Hana Financial Group]:http://www.hanafn.com/
 [Wooli Bank]:http://www.wooribank.com
-[China Construction Bank(CCB)]:http://group.ccb.com
+[China Construction Bank (CCB)]:http://group.ccb.com
 [Founder]:http://www.founder.com/
