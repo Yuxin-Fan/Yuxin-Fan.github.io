@@ -5,8 +5,7 @@ layout: page
 ## About Me
 
 <img src="/images/fyxhg.png" class="floatpic" width="200" height="150">
-　　Yuxin Fan, born on Sept.8th, 1996, working for [China construction Bank(CCB)]. Great interest in economics, inclusive finance and population studies.  
-  Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
+　　Yuxin Fan, born on Sept.8th, 1996, working for [China Construction Bank(CCB)]. Great interest in economics, inclusive finance and population studies. Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
 
 ## Education Background
 * M.A. in Economics - [Peking University, China] (2017-2020)
@@ -45,5 +44,5 @@ layout: page
 [Peking University "Challenge Cup"]:http://www.tiaozhanbei.net/d1711/
 [Hana Financial Group]:http://www.hanafn.com/
 [Wooli Bank]:http://www.wooribank.com
-[China construction Bank(CCB)]:http://group.ccb.com
+[China Construction Bank(CCB)]:http://group.ccb.com
 [Founder]:http://www.founder.com/
