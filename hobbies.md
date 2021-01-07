@@ -11,8 +11,7 @@ title: Hobbies
 
 ### Travelling
     Cities I have visited till Jan, 2021 are marked on the map. Only including cities in China.
-<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/footprint.png" width="70%" height="70%" />
-  
+<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/blob/master/images/footprint.png" width="70%" height="70%" />
 
 ### Enjoying the symphony
 
