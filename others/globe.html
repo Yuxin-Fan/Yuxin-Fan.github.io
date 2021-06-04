@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts-gl.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/china.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/world.js"></script>
+
+</head>
+<body>
+    <div id="5e62437f1e3f4cf2bf9de175e4188fd0" style="width:900px; height:500px;"></div>
+    <script>
+		var canvas_5e62437f1e3f4cf2bf9de175e4188fd0 = document.createElement('canvas');
+        var mapChart_5e62437f1e3f4cf2bf9de175e4188fd0 = echarts.init(
+		     canvas_5e62437f1e3f4cf2bf9de175e4188fd0, 'white', {width: 4096, height: 2048, renderer: 'canvas'});
+        var mapOption_5e62437f1e3f4cf2bf9de175e4188fd0 = {
+    "backgroundColor": "#1E90FF",
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "map",
+            "name": "World Population",
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "mapType": "world",
+            "data": [
+                {
+                    "name": "China",
+                    "value": 1
+                },
+                {
+                    "name": "Indonesia",
+                    "value": 1
+                },
+                {
+                    "name": "Korea",
+                    "value": 1
+                },
+                {
+                    "name": "Belgium",
+                    "value": 1
+                },
+                {
+                    "name": "Germany",
+                    "value": 1
+                },
+                {
+                    "name": "Denmark",
+                    "value": 1
+                },
+                {
+                    "name": "Singapore",
+                    "value": 1
+                },
+                {
+                    "name": "Malaysia",
+                    "value": 1
+                },
+                {
+                    "name": "Sweden",
+                    "value": 1
+                }
+            ],
+            "roam": true,
+            "zoom": 1,
+            "showLegendSymbol": false,
+            "emphasis": {}
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "World Population"
+            ],
+            "selected": {
+                "World Population": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "visualMap": {
+        "show": true,
+        "type": "piecewise",
+        "min": 1,
+        "max": 1,
+        "text": [
+            "max",
+            "min"
+        ],
+        "inRange": {
+            "color": [
+                "orange"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "orient": "vertical",
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 14,
+        "borderWidth": 0
+    },
+    "title": [
+        {
+            "padding": 5,
+            "itemGap": 10
+        }
+    ]
+};
+        mapChart_5e62437f1e3f4cf2bf9de175e4188fd0.setOption(mapOption_5e62437f1e3f4cf2bf9de175e4188fd0);
+
+		var chart_5e62437f1e3f4cf2bf9de175e4188fd0 = echarts.init(
+        document.getElementById('5e62437f1e3f4cf2bf9de175e4188fd0'), 'white', {renderer: 'canvas'});
+		var options_5e62437f1e3f4cf2bf9de175e4188fd0 = {
+           "globe": {
+           "show": true,
+		   "baseTexture": mapChart_5e62437f1e3f4cf2bf9de175e4188fd0,
+           shading: 'lambert',
+            light: {
+                ambient: {
+                    intensity: 0.6
+                },
+                main: {
+                    intensity: 0.2
+                }
+             }
+
+		   }};
+		chart_5e62437f1e3f4cf2bf9de175e4188fd0.setOption(options_5e62437f1e3f4cf2bf9de175e4188fd0);
+    </script>
+</body>
+</html>
